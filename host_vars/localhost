@@ -1,0 +1,39 @@
+---
+homebrew_repositories:
+
+homebrew_packages:
+  - ansible
+  - bash-completion
+  - curl
+  - docker
+  - docker-machine
+  - docker-compose
+  - git
+  - openssl
+  - rbenv
+  - readline
+  - reattach-to-user-namespace
+  - ruby-build
+  - the_silver_searcher
+  - tmux
+  - vim
+
+homebrew_cask_repositories:
+  - caskroom/versions
+
+homebrew_cask_packages:
+  - appcleaner
+  - dropbox
+  - firefox-ja
+  - flash
+  - google-chrome
+  - iterm2
+  - java
+  - intellij-idea
+  - libreoffice
+  - slack
+  - steam
+  - unity
+  - vagrant
+  - virtualbox
+  - vlc
