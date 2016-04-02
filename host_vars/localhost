@@ -9,6 +9,7 @@ homebrew_packages:
   - docker-machine
   - docker-compose
   - git
+  - gnu-sed
   - openssl
   - rbenv
   - readline
