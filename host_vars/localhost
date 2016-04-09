@@ -31,6 +31,7 @@ homebrew_cask_packages:
   - iterm2
   - java
   - intellij-idea
+  - kindlegen
   - libreoffice
   - slack
   - steam
