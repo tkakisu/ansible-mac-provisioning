@@ -11,6 +11,7 @@ homebrew_packages:
   - git
   - gnu-sed
   - openssl
+  - p7zip
   - rbenv
   - readline
   - reattach-to-user-namespace
