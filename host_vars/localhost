@@ -10,6 +10,7 @@ homebrew_packages:
   - docker-compose
   - git
   - gnu-sed
+  - iproute2mac
   - openssl
   - p7zip
   - rbenv
