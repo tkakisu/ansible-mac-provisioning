@@ -13,3 +13,7 @@
     state={{ item.state | default('present') }}
   with_items: "{{ homebrew_cask_packages }}"
   when: "{{ homebrew_cask_packages }}"
+
+- name: Cleanup Homebrew Cask
+  shell: brew cask cleanup
+

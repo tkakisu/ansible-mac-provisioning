@@ -18,3 +18,7 @@
     }}
   with_items: "{{ homebrew_packages }}"
   when: "{{ homebrew_packages }}"
+
+- name: Cleanup Homebrew
+  shell: brew cleanup
+
