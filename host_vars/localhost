@@ -28,6 +28,7 @@ homebrew_cask_repositories:
 
 homebrew_cask_packages:
   - appcleaner
+  - atom
   - cheatsheet
   - dropbox
   - firefox-ja
