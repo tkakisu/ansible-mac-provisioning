@@ -8,6 +8,8 @@ homebrew_packages:
   - docker
   - docker-machine
   - docker-compose
+  - doxygen
+  - ffmpeg
   - git
   - gnu-sed
   - iproute2mac
