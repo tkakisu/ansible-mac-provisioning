@@ -1,5 +1,6 @@
 ---
 homebrew_repositories:
+  - tkengo/highway
 
 homebrew_packages:
   - ansible
@@ -12,6 +13,7 @@ homebrew_packages:
   - ffmpeg
   - git
   - gnu-sed
+  - highway
   - iproute2mac
   - openssl
   - p7zip
@@ -21,7 +23,6 @@ homebrew_packages:
   - readline
   - reattach-to-user-namespace
   - ruby-build
-  - the_silver_searcher
   - tmux
   - vim
 
